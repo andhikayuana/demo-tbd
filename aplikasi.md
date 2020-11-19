@@ -21,3 +21,4 @@
     - login
         - nomor hp
         - email & password
+- splash screen
