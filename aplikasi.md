@@ -11,3 +11,6 @@
         - Room
         - Paging
         - Navigation Component
+    - Retrofit
+    - Glide
+    - Google Map SDK
